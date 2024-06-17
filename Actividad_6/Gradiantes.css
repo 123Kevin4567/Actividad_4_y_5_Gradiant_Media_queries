@@ -51,10 +51,6 @@ body {
 /*fallback es para darle un default o soporte cuando los px que se asignaron no se encuentrean*/
 
 
-/*
-companente boton
-*/
-
 .button{
   display: inline-block;
   text-decoration: none;
